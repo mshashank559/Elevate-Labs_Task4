@@ -44,7 +44,7 @@ Design an interactive and visually appealing Power BI dashboard to help business
 - ✅ Power BI Interactive Dashboard (`.pbix` file)
 - ✅ Excel Dataset (Raw Data source - Awesome_Chocolate_Sales Analysis_[business stakeholders].xlsx)
 - ✅ README Documentation (this file)
-- 
+  
 
 ---
 
